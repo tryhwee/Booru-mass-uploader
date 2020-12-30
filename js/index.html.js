@@ -1,6 +1,6 @@
 document.documentElement.innerHTML='\
 <head>\
-	<title>Mass uploader</title>\
+	<title>TEST Mass uploader</title>\
 	<meta http-equiv="Cache-Control" content="no-store"/>\
 	<meta content="text/html" charset="utf-8" http-equiv="Content-Type"/>\
 	<style type="text/css">\
